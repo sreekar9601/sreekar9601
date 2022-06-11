@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sreekar Sarvepalli</h1>
 <h3 align="center">A Blockchain/ Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://tiptopbrain.com/wp-content/uploads/2020/05/coding-on-pc-icon.png">
 
 
 
