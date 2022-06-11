@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [DEV-NFT](devnft.xyz)
+- 🔭 I’m currently working on [DEV-NFT](https://github.com/WebXDAO/DEV-NFT)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, GraphQL**
 
