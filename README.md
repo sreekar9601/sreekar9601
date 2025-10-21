@@ -57,7 +57,7 @@ Advanced RAG assistant for ML framework docs (PyTorch, MLflow).
 - Uses **RRF fusion (Qdrant + SQLite FTS5)** with adaptive weighting & MMR for relevance.  
 - Built with **FastAPI + Next.js**, integrated **Gemini 2.5 Flash**, and deployed on Railway (Dockerized).
 
-#### 🔹 **Study Buddy – Berkeley CalHacks**
+#### 🔹 **[Study Buddy](https://github.com/dhrumilankola/Study-Buddy) – Berkeley CalHacks**
 AI tutoring platform using **Ollama / Gemini API, RAG, and ElevenLabs voice agents**.  
 - Implemented hybrid retrieval, reranking, and persistent multi-session chat via PostgreSQL.
 
